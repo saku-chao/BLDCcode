@@ -1,0 +1,15 @@
+typedef char (*genfunc)(int)
+genfunc pfun;
+
+char glfun(int a);
+
+void main()
+{
+	pfun = glfun ;
+	pfun(2);
+}
+
+char glfun(int a)
+{
+	return a;
+}
