@@ -15,9 +15,9 @@ void main()
 function 	:	master
 file 		:	new1
 author		: 	wang-pc00
-date		:	2019.7.29
+date		:	2019.7.29 
 **********************************/
-char glfun(int a)
+char glfun(int a) 
 {
 	return a;
 }
