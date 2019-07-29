@@ -3,6 +3,7 @@ genfunc pfun;
 
 char glfun(int a);
 void master(void);
+void slave(void);
 
 void main()
 {
@@ -15,7 +16,11 @@ char glfun(int a)
 	return a;
 }
 
-void master();
+void master()
 {
 	return 0; 
+}
+void slave()
+{
+	return 0;
 }
