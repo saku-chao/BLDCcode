@@ -27,6 +27,6 @@ void master(void)
 	return 0; 
 }
 void slave(void)
-{
-	return 0;
+{ 
+	return 0; 
 }
