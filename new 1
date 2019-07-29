@@ -2,6 +2,7 @@ typedef char (*genfunc)(int)
 genfunc pfun;
 
 char glfun(int a);
+void master(void);
 
 void main()
 {
@@ -12,4 +13,9 @@ void main()
 char glfun(int a)
 {
 	return a;
+}
+
+void master();
+{
+	return 0;
 }
