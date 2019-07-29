@@ -16,11 +16,11 @@ char glfun(int a)
 	return a;
 }
 
-void master()
+void master(void)
 {
 	return 0; 
 }
-void slave()
+void slave(void)
 {
 	return 0;
 }
