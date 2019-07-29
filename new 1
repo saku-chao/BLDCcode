@@ -11,6 +11,12 @@ void main()
 	pfun(2);
 }
 
+/***********************************
+function 	:	master
+file 		:	new1
+author		: 	wang-pc00
+date		:	2019.7.29
+**********************************/
 char glfun(int a)
 {
 	return a;
