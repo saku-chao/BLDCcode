@@ -17,5 +17,5 @@ char glfun(int a)
 
 void master();
 {
-	return 0;
+	return 0; 
 }
