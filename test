@@ -1,0 +1,44 @@
+
+/*********	head declare	********/
+
+
+
+/*********	function declare********/
+void  master(void);
+void  slave(void);
+
+/************************************
+function	: main
+file		: test
+author		: wang chao
+date		: 2019.7.29
+description	: none
+************************************/
+void main()
+{
+		//	init
+		//	function  master
+		//	function  slave
+}
+/************************************
+function	: master
+file		: test
+author		: wang chao
+date		: 2019.7.29
+description	: none
+************************************/
+void master(void)
+{
+	return 0;
+}
+/************************************
+function	: slave
+file		: test
+author		: wang chao
+date		: 2019.7.29
+description	: none
+************************************/
+void slave(void)
+{
+	return 0;
+}
